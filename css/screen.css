@@ -204,12 +204,12 @@ label {
 
 /* ===== LAYOUT STYLES ====== */
 html {
-    background-color: rgb(161, 161, 161);
+    background-color: rgb(211, 209, 209);
 }
 
 body,
 form {
-    background-color: rgb(201, 206, 206);
+    background-color: rgb(224, 227, 227);
 }
 
 input {
