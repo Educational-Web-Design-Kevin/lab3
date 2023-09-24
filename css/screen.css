@@ -203,6 +203,18 @@ label {
 }
 
 /* ===== LAYOUT STYLES ====== */
+html {
+    background-color: rgb(161, 161, 161);
+}
+
+body,
+form {
+    background-color: rgb(201, 206, 206);
+}
+
+input {
+    background-color: rgb(255, 255, 255);
+}
 
 
 /* ===== STATE STYLES ======= */
