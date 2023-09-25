@@ -213,6 +213,12 @@ body {
     padding: 0.125em 0.125em 0.125em 0.125em; /*2/16=0.125*/
 }
 
+h1,
+p,
+#input-submit {
+    padding-bottom: 0.75em; /*12/16=0.75*/
+}
+
 #email {
   max-width: 100%;
 }
