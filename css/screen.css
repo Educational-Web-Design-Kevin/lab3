@@ -212,6 +212,10 @@ form {
     background-color: rgb(224, 227, 227);
 }
 
+#email {
+  max-width: 100%;
+}
+
 #email,
 #age-verification {
     background-color: rgb(255, 255, 255);
