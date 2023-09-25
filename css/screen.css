@@ -210,7 +210,7 @@ html {
 
 body {
     background-color: rgb(224, 227, 227);
-    padding: 0.125em 0 0.125em 0; /*2/16=0.125*/
+    padding: 0.125em 0.125em 0.125em 0.125em; /*2/16=0.125*/
 }
 
 #email {
