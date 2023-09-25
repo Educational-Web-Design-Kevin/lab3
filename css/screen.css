@@ -223,6 +223,10 @@ p,
   max-width: 100%;
 }
 
+#input-age-verification {
+  padding: 0.50em 0 0.50em 0; /*8/16=0.50*/
+}
+
 li .age-verification,
 #age-verification {
   height: 1.375em; /*22/16=1.375*/
