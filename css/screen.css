@@ -223,6 +223,13 @@ p,
   max-width: 100%;
 }
 
+li .age-verification,
+#age-verification {
+  padding: 0.25em; /*4/16=0.25*/
+}
+
+
+
 #email,
 #age-verification {
     background-color: rgb(255, 255, 255);
