@@ -225,7 +225,8 @@ p,
 
 li .age-verification,
 #age-verification {
-  padding: 0.25em; /*4/16=0.25*/
+  height: 1.375em; /*22/16=1.375*/
+  width: 1.375em;  /*22/16=1.375*/
 }
 
 
