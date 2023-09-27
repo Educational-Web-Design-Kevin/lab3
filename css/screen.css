@@ -257,5 +257,10 @@ li .age-verification,
   box-sizing: border-box;
 }
 
+/*Screens with width of 380 pixels. For phones in landscape mode.*/
+@media screen and (min-width: 23.75em) { /*380/16=23.75*/
+
+}
+
 
 /* ===== STATE STYLES ======= */
