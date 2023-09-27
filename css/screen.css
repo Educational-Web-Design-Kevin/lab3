@@ -259,7 +259,9 @@ li .age-verification,
 
 /*Screens with width of 380 pixels. For phones in landscape mode.*/
 @media screen and (min-width: 23.75em) { /*380/16=23.75*/
-
+  body {
+    max-width: 21em;/*336/16=21*/
+  }
 }
 
 
