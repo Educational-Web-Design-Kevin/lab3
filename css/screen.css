@@ -243,7 +243,10 @@ li .age-verification,
   width: 1.375em;  /*22/16=1.375*/
 }
 
-
+#email,
+#submit {
+  width: 100%
+}
 
 #email,
 #age-verification {
