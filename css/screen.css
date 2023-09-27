@@ -204,7 +204,7 @@ label {
 
 /* ===== LAYOUT STYLES ====== */
 html {
-    background-color: rgb(224, 227, 227);
+    background-color: rgb(232, 240, 240);
 }
 
 
@@ -216,6 +216,11 @@ body {
 h1,
 p {
   text-align: center;
+}
+
+input {
+    border-radius: 0.25em; /*4/16=0.25*/
+    border-style: hidden;
 }
 
 h1,
