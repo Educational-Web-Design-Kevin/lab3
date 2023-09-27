@@ -212,6 +212,10 @@ body {
   padding: 0.25em 0.75em 0.25em 0.75em; /*4/16=0.125 AND 12/16=0.75*/
 }
 
+h1 {
+  font-weight: bold;
+}
+
 h1,
 p {
   text-align: center;
