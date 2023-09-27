@@ -250,7 +250,8 @@ li .age-verification,
 
 #email,
 #submit {
-  width: 100%
+  width: 100%;
+  padding: 0.25em 0.125em; /*2/16=0.125 AND 4/16=0.25*/
 }
 
 #email,
