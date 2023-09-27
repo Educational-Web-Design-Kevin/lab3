@@ -225,6 +225,7 @@ p,
 
 #input-age-verification {
   padding: 0.50em 0 0.50em 0; /*8/16=0.50*/
+  display: flex;
 }
 
 li .age-verification,
