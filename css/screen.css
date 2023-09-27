@@ -223,12 +223,6 @@ input {
   margin: 0.50em 0 1em 0; /*8/16=0.50 AND 16/16=1*/
 }
 
-h1,
-p,
-#input-submit {
-  padding-bottom: 0.75em; /*12/16=0.75*/
-}
-
 #email {
   max-width: 100%;
 }
