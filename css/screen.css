@@ -207,7 +207,6 @@ html {
   background-color: rgb(221, 222, 228);
 }
 
-
 body {
   padding: 0.25em 0.75em 0.25em 0.75em; /*4/16=0.125 AND 12/16=0.75*/
 }
@@ -216,15 +215,21 @@ h1 {
   font-weight: bold;
 }
 
+input {
+  border-radius: 0.25em; /*4/16=0.25*/
+  border-style: hidden;
+}
+
 h1,
 p {
   text-align: center;
   margin-bottom: 0.75em; /*12/16=0.75*/
 }
 
-input {
-  border-radius: 0.25em; /*4/16=0.25*/
-  border-style: hidden;
+li .age-verification,
+#age-verification {
+  height: 1.375em; /*22/16=1.375*/
+  width: 1.375em;  /*22/16=1.375*/
 }
 
 #input-age-verification {
@@ -235,23 +240,17 @@ input {
   margin-left: 0.50em; /*8/16=0.50*/
 }
 
-li .age-verification,
-#age-verification {
-  height: 1.375em; /*22/16=1.375*/
-  width: 1.375em;  /*22/16=1.375*/
-}
-
-#email,
-#submit,
-#input-age-verification {
-  margin: 0.50em 0 1em 0; /*8/16=0.50 AND 16/16=1*/
-}
-
 #email,
 #submit {
   width: 100%;
   padding: 0.25em 0.125em; /*2/16=0.125 AND 4/16=0.25*/
   max-width: 100%;
+}
+
+#email,
+#input-age-verification,
+#submit {
+  margin: 0.50em 0 1em 0; /*8/16=0.50 AND 16/16=1*/
 }
 
 #email,
