@@ -228,6 +228,10 @@ p,
   display: flex;
 }
 
+#age-verification {
+  padding-left: 0.50em; /*8/16=0.50*/
+}
+
 li .age-verification,
 #age-verification {
   height: 1.375em; /*22/16=1.375*/
