@@ -223,10 +223,6 @@ input {
   border-style: hidden;
 }
 
-#email {
-  max-width: 100%;
-}
-
 #input-age-verification {
   display: flex;
 }
@@ -251,6 +247,7 @@ li .age-verification,
 #submit {
   width: 100%;
   padding: 0.25em 0.125em; /*2/16=0.125 AND 4/16=0.25*/
+  max-width: 100%;
 }
 
 #email,
