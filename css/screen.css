@@ -204,12 +204,12 @@ label {
 
 /* ===== LAYOUT STYLES ====== */
 html {
-  background-color: rgb(232, 240, 240);
+  background-color: rgb(220, 220, 220);
 }
 
 
 body {
-  background-color: rgb(229, 227, 227);
+  background-color: rgb(239, 238, 238);
   padding: 0.125em 0.125em 0.125em 0.125em; /*2/16=0.125*/
 }
 
