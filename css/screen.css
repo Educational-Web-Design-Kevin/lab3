@@ -204,13 +204,13 @@ label {
 
 /* ===== LAYOUT STYLES ====== */
 html {
-    background-color: rgb(232, 240, 240);
+  background-color: rgb(232, 240, 240);
 }
 
 
 body {
-    background-color: rgb(229, 227, 227);
-    padding: 0.125em 0.125em 0.125em 0.125em; /*2/16=0.125*/
+  background-color: rgb(229, 227, 227);
+  padding: 0.125em 0.125em 0.125em 0.125em; /*2/16=0.125*/
 }
 
 h1,
@@ -219,14 +219,14 @@ p {
 }
 
 input {
-    border-radius: 0.25em; /*4/16=0.25*/
-    border-style: hidden;
+  border-radius: 0.25em; /*4/16=0.25*/
+  border-style: hidden;
 }
 
 h1,
 p,
 #input-submit {
-    padding-bottom: 0.75em; /*12/16=0.75*/
+  padding-bottom: 0.75em; /*12/16=0.75*/
 }
 
 #email {
@@ -255,8 +255,8 @@ li .age-verification,
 
 #email,
 #age-verification {
-    background-color: rgb(255, 255, 255);
-    box-sizing: border-box;
+  background-color: rgb(255, 255, 255);
+  box-sizing: border-box;
 }
 
 
