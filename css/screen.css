@@ -261,6 +261,7 @@ li .age-verification,
 @media screen and (min-width: 23.75em) { /*380/16=23.75*/
   body {
     max-width: 19em;/*304/16=19*/
+    margin: auto
   }
 }
 
