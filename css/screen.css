@@ -214,6 +214,11 @@ body {
 }
 
 h1,
+p {
+  text-align: center;
+}
+
+h1,
 p,
 #input-submit {
     padding-bottom: 0.75em; /*12/16=0.75*/
@@ -229,7 +234,7 @@ p,
 }
 
 #age-verification {
-  padding-left: 0.50em; /*8/16=0.50*/
+  margin-left: 0.50em; /*8/16=0.50*/
 }
 
 li .age-verification,
