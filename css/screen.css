@@ -221,7 +221,6 @@ p {
 input {
   border-radius: 0.25em; /*4/16=0.25*/
   border-style: hidden;
-  margin: 0.50em 0 1em 0; /*8/16=0.50 AND 16/16=1*/
 }
 
 #email {
@@ -240,6 +239,12 @@ li .age-verification,
 #age-verification {
   height: 1.375em; /*22/16=1.375*/
   width: 1.375em;  /*22/16=1.375*/
+}
+
+#email,
+#submit,
+#input-age-verification {
+  margin: 0.50em 0 1em 0; /*8/16=0.50 AND 16/16=1*/
 }
 
 #email,
