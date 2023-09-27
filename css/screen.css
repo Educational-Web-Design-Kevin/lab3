@@ -254,7 +254,8 @@ li .age-verification,
 }
 
 #email,
-#age-verification {
+#age-verification,
+#submit {
   background-color: rgb(255, 255, 255);
   box-sizing: border-box;
 }
