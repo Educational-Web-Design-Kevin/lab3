@@ -266,12 +266,18 @@ li .age-verification,
   html {
     background-color: rgb(255, 250, 250);
   }
-  
+
   body {
     border: 0.125em rgb(37, 37, 37) groove;
     max-width: 19em;/*304/16=19*/
     margin: auto
   }
+}
+
+/*Screens with min height of 432 pixels. To make it easier to access inputs in tall phones*/
+@media screen and (min-height: 27em) { /*432/16=27*/
+  
+
 }
 
 
