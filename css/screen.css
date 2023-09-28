@@ -276,7 +276,15 @@ li .age-verification,
 
 /*Screens with min height of 432 pixels. To make it easier to access inputs in tall phones*/
 @media screen and (min-height: 27em) { /*432/16=27*/
-  
+  html {
+    /*Credit: W3C Schools*/
+    margin: 0;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    width: 92%;
+  }
 
 }
 
