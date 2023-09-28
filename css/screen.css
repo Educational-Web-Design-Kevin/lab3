@@ -235,6 +235,10 @@ li .age-verification,
   margin-left: 0.50em; /*8/16=0.50*/
 }
 
+#submit {
+  margin: 1.75em 0 1em 0; /*28/16=1.75 AND 16/16=1*/
+}
+
 #email,
 #submit {
   width: 100%;
@@ -243,8 +247,7 @@ li .age-verification,
 }
 
 #email,
-#input-age-verification,
-#submit {
+#input-age-verification {
   margin: 0.50em 0 1em 0; /*8/16=0.50 AND 16/16=1*/
 }
 
