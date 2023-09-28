@@ -234,6 +234,10 @@ li .age-verification,
 #label-age-verification {
   margin-left: 0.50em; /*8/16=0.50*/
 }
+#input-submit {
+  margin: auto; /*28/16=1.75 AND 16/16=1*/
+  max-width: 10em; /*160/16=10*/
+}
 
 #submit {
   margin: 1.75em 0 1em 0; /*28/16=1.75 AND 16/16=1*/
