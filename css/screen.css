@@ -192,7 +192,7 @@ img, audio, video {
 */
 
 html {
-  font-family:  Geneva, Times, Helvetica;
+  font-family:  Arial, Helvetica, Times;
   font-size: 1.375em; /* 22px */
   line-height: 1.182em; /* 26px / ~ 120% */
   padding: 1.182em; /* 26px / ~ 120% */
