@@ -225,8 +225,11 @@ p {
 
 li .age-verification,
 #age-verification {
-  height: 1.375em; /*22/16=1.375*/
-  width: 1.375em;  /*22/16=1.375*/
+  /*height: 1.375em; /*22/16=1.375*/
+  /*width: 1.375em;  /*22/16=1.375*/
+
+  height: 1.364em; /*30/22=1.3636*/
+  width: 1.364em;  /*30/22=1.3636*/
 }
 
 #input-age-verification {
