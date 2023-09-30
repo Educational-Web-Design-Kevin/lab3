@@ -276,7 +276,7 @@ li .age-verification,
   body {
     background-color: rgb(221, 222, 228);
     /*border-radius: 0.125em; /**/
-    border-radius: 0.318em; /*7/22=0.3181*/
+    border-radius: 0.50em; /*11/22=0.50*/
     max-width: 19em; /*418/22=19*/
     margin: auto;
     padding: 0.727em 0.727em  0.727em 0.727em; /*16/22=0.7272*/
