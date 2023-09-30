@@ -278,6 +278,7 @@ li .age-verification,
     border-radius: 0.125em;
     max-width: 19em;/*304/16=19*/
     margin: auto;
+    padding: 0.727em 0.727em  0.727em 0.727em; /*16/22=0.7272*/
   }
 }
 
