@@ -238,7 +238,6 @@ li .age-verification,
 }
 #input-submit {
   margin: auto;
-  /*max-width: 10em; /*160/16=10*/
   max-width: 10.273em; /*224/22=10.2727*/
 }
 
