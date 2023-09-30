@@ -261,7 +261,7 @@ li .age-verification,
 #age-verification,
 #submit {
   background-color: rgb(255, 250, 250);
-  border-radius: 0.25em; /*4/16=0.25*/
+  border-radius: 0.318em; /*7/22=0.3181*/
   border-style: hidden;
   box-sizing: border-box;
 }
