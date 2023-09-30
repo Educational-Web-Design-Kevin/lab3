@@ -274,7 +274,7 @@ li .age-verification,
 
   body {
     background-color: rgb(221, 222, 228);
-    border: 0.125em rgb(37, 37, 37) groove;
+    border-radius: 0.125em;
     max-width: 19em;/*304/16=19*/
     margin: auto
   }
