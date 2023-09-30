@@ -220,7 +220,7 @@ h1 {
 h1,
 p {
   text-align: center;
-  margin-bottom: 1em; /*16/16=1*/
+  margin-bottom: 1em; /*22/22=1*/
 }
 
 li .age-verification,
@@ -234,7 +234,7 @@ li .age-verification,
 }
 
 #label-age-verification {
-  margin-left: 0.50em; /*8/16=0.50*/
+  margin-left: 0.50em; /*11/22=0.50*/
 }
 #input-submit {
   margin: auto; /*28/16=1.75 AND 16/16=1*/
@@ -242,7 +242,8 @@ li .age-verification,
 }
 
 #submit {
-  margin: 1.75em 0 1em 0; /*28/16=1.75 AND 16/16=1*/
+  /*margin: 1.75em 0 1em 0; /*28/16=1.75 AND 16/16=1*/
+  margin: 1.727em 0 1em 0; /*38/22=1.7272 AND 22/22=1*/
 }
 
 #email,
@@ -254,7 +255,7 @@ li .age-verification,
 
 #email,
 #input-age-verification {
-  margin: 0.50em 0 1em 0; /*8/16=0.50 AND 16/16=1*/
+  margin: 0.50em 0 1em 0; /*11/22=0.50 AND 22/22=1*/
 }
 
 #email,
