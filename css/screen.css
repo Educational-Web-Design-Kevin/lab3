@@ -238,7 +238,8 @@ li .age-verification,
 }
 #input-submit {
   margin: auto;
-  max-width: 10em; /*160/16=10*/
+  /*max-width: 10em; /*160/16=10*/
+  max-width: 7.727em; /*170/22=7.7272*/
 }
 
 #submit {
