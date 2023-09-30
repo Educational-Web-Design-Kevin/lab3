@@ -237,12 +237,11 @@ li .age-verification,
   margin-left: 0.50em; /*11/22=0.50*/
 }
 #input-submit {
-  margin: auto; /*28/16=1.75 AND 16/16=1*/
+  margin: auto;
   max-width: 10em; /*160/16=10*/
 }
 
 #submit {
-  /*margin: 1.75em 0 1em 0; /*28/16=1.75 AND 16/16=1*/
   margin: 1.727em 0 1em 0; /*38/22=1.7272 AND 22/22=1*/
 }
 
