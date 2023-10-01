@@ -243,6 +243,10 @@ li .age-verification,
 
 #email,
 #submit {
+  background-color: rgb(255, 250, 250);
+  border-radius: 0.318em; /*7/22=0.3181*/
+  border-style: hidden;
+  box-sizing: border-box;
   width: 100%;
   padding: 0.50em 0.273em 0.50em 0.273em; /*11/22=0.50 AND 6/22=0.2727*/
   max-width: 100%;
@@ -251,14 +255,6 @@ li .age-verification,
 #email,
 #input-age-verification {
   margin: 0.50em 0 1em 0; /*11/22=0.50 AND 22/22=1*/
-}
-
-#email,
-#submit {
-  background-color: rgb(255, 250, 250);
-  border-radius: 0.318em; /*7/22=0.3181*/
-  border-style: hidden;
-  box-sizing: border-box;
 }
 
 /*Screens with width of 380 pixels. For phones in landscape mode.*/
