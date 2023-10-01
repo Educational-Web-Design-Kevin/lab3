@@ -254,7 +254,6 @@ li .age-verification,
 }
 
 #email,
-#age-verification,
 #submit {
   background-color: rgb(255, 250, 250);
   border-radius: 0.318em; /*7/22=0.3181*/
