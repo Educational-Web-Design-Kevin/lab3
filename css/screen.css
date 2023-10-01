@@ -268,8 +268,9 @@ li .age-verification,
 }
 
 /*Screens with width of 380 pixels. For phones in landscape mode.*/
+/*Media queries base ems on the default 16px font*/
 /*@media screen and (min-width: 23.75em) { /*380/16=23.75*/
-@media screen and (min-width: 24em) { /*528/22=24*/
+@media screen and (min-width: 25em) { /*400/16=25*/
 
   html {
     background-color: rgb(255, 250, 250);
