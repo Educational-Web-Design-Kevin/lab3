@@ -292,11 +292,9 @@ li .age-verification,
 
 /* ===== STATE STYLES ======= */
 /*only apply hover to devices that have mouse or stylus*/
-@media (hover: hover) {
-  #submit:hover,
-  #submit:active {
-    background-color: rgb(197, 197, 197);
-    color: rgb(0, 0, 0);
-}
-
+#submit:hover,
+#submit:active,
+#submit.hover_effect {
+  background-color: rgb(197, 197, 197);
+  color: rgb(0, 0, 0);
 }
