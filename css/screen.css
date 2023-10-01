@@ -241,10 +241,6 @@ li .age-verification,
   max-width: 10.273em; /*224/22=10.2727*/
 }
 
-#submit {
-  /*margin: 1.727em 0 1em 0; /*38/22=1.7272 AND 22/22=1*/
-}
-
 #email,
 #submit {
   width: 100%;
