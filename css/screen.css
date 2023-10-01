@@ -286,7 +286,7 @@ li .age-verification,
 
 /*Screens with min height of 432 pixels. To make it easier to access inputs in tall phones*/
 /*Media queries base ems on the default 16px font*/
-@media screen and (min-height: 27em) { /*432/16=27*/
+@media screen and (min-height: 30em) { /*480/16=30*/
   html {
     /*Credit: W3C Schools*/
     margin: 0;
