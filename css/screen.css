@@ -271,10 +271,6 @@ li .age-verification,
     margin: auto;
     padding: 0.727em 0.727em  0.727em 0.727em; /*16/22=0.7272*/
   }
-  h1 {
-    font-size: 1.667em; /*36.674px/22=1.667em*/
-    line-height: 1.172em; /*43/36.674=1.172em*/
-  }
 }
 
 /*Screens with min height of 432 pixels. To make it easier to access inputs in tall phones*/
@@ -289,7 +285,14 @@ li .age-verification,
     transform: translate(-50%, -50%);
     width: 92%;
   }
+}
 
+/*Screens with a height of 512 pixels or width 400 pixels.*/
+@media screen and (min-width: 25em) or (min-height: 32em){
+  h1 {
+    font-size: 1.667em; /*36.674px/22=1.667em*/
+    line-height: 1.172em; /*43/36.674=1.172em*/
+  }
 }
 
 
