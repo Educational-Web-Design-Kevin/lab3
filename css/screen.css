@@ -225,8 +225,12 @@ p {
 
 li .age-verification,
 #age-verification {
+  background-color: rgb(255, 250, 250);;
   height: 1.364em; /*30/22=1.3636*/
   width: 1.364em;  /*30/22=1.3636*/
+  -webkit-appearance: none;
+  -moz-appearance: none;
+  appearance: none;
 }
 
 #input-age-verification {
