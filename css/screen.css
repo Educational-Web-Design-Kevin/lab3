@@ -306,6 +306,9 @@ li .age-verification,
 #age-verification:active {
   background-color: rgb(197, 197, 197);
 }
+#age-verification:checked {
+  background-color: rgb(0, 0, 0);
+}
 #submit:hover,
 #submit:active,
 #submit.hover_effect {
