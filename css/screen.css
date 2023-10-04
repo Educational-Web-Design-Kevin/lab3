@@ -287,8 +287,9 @@ li .age-verification,
   }
 }
 
-/*Screens with a height of 512 pixels or width 400 pixels.*/
-@media screen and (min-width: 25em), screen and (min-height: 32em) {
+/*Screens with a minimum width of 400 pixels or screens with a minimum width of 320 pixels and .*/
+/*@media screen and (min-width: 25em), screen and (min-width: 20em) and (min-height: 32em) { /*400/16=25 AND 512/16=32 AND 320/16=20*/
+@media screen and (min-width: 22em) and (min-height: 32em) { /*352/16=22 AND 512/16=32*/
   h1 {
     font-size: 1.667em; /*36.674px/22=1.667em*/
     line-height: 1.172em; /*43/36.674=1.172em*/
