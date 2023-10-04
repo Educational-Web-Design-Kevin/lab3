@@ -294,11 +294,12 @@ li .age-verification,
 
 /* ===== STATE STYLES ======= */
 /*only apply hover to devices that have mouse or stylus*/
-#age-verification:checked {
+#age-verification:checked,
+#submit:active {
   background-color: rgb(0, 0, 0);
+  color:rgb(255, 255, 255)
 }
 #submit:hover,
-#submit:active,
 #submit.hover_effect,
 #age-verification:hover {
   background-color: rgb(197, 197, 197);
