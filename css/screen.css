@@ -288,7 +288,7 @@ li .age-verification,
 }
 
 /*Screens with a height of 512 pixels or width 400 pixels.*/
-@media screen and (min-width: 25em) or (min-height: 32em){
+@media screen and (min-width: 25em), screen and (min-height: 32em) {
   h1 {
     font-size: 1.667em; /*36.674px/22=1.667em*/
     line-height: 1.172em; /*43/36.674=1.172em*/
