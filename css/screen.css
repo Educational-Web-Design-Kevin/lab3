@@ -190,7 +190,6 @@ img, audio, video {
   Major Sixth Modular Scale:
   http://www.modularscale.com/?22&px&1.667&web&text
 */
-
 html {
   font-family:  Arial, Helvetica, Times;
   font-size: 1.375em; /* 22px */
@@ -198,7 +197,6 @@ html {
   padding: 1.182em; /* 26px / ~ 120% */
   text-rendering: optimizeLegibility;
 }
-
 label {
   display: block;
 }
@@ -259,7 +257,6 @@ li .age-verification,
 /*Screens with width of 380 pixels. For phones in landscape mode.*/
 /*Media queries base ems on the default 16px font*/
 @media screen and (min-width: 25em) { /*400/16=25*/
-
   html {
     background-color: rgb(242, 242, 244);
   }
@@ -285,7 +282,6 @@ li .age-verification,
     width: 92%;
   }
 }
-
 /*Screens with a minimum width of 352 pixels or screens with a minimum height of 512 pixels and .*/
 @media screen and (min-width: 22em) and (min-height: 32em) { /*352/16=22 AND 512/16=32*/
   h1 {
@@ -293,7 +289,6 @@ li .age-verification,
     line-height: 1.172em; /*43/36.674=1.172em*/
   }
 }
-
 
 /* ===== STATE STYLES ======= */
 /*only apply hover to devices that have mouse or stylus*/
