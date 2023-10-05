@@ -211,6 +211,9 @@ html {
 body {
   padding: 0.727em 0  0.727em 0; /*16/22=0.7272*/
 }
+form {
+  box-sizing: border-box;
+}
 h1 {
   font-weight: bold;
 }
